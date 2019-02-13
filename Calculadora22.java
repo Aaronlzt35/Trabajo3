@@ -16,7 +16,7 @@ public class Calculadora22 {
     public Calculadora22(int a, int b){
         num1=a;
         num2=b;
-    }
+    } 
 
 public int multiplicar(){
     int resul=num1*num2;
