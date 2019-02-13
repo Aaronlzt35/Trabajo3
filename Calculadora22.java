@@ -17,14 +17,7 @@ public class Calculadora22 {
         num1=a;
         num2=b;
     }
-public int suma(){
-    int resul=num1+num2;
-    return resul;
-}    
-public int resta(){
-    int resul=num1-num2;
-    return resul;
-}    
+
 public int multiplicar(){
     int resul=num1*num2;
         return resul;
