@@ -17,7 +17,10 @@ public class Calculadora22 {
         num1=a;
         num2=b;
     } 
-
+public int restar(){
+int resul=num-num2;
+    return resul;
+}
 public int multiplicar(){
     int resul=num1*num2;
         return resul;
